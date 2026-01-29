@@ -1,0 +1,19 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Data
+data/
+
+# OS
+.DS_Store

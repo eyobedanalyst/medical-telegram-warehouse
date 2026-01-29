@@ -1,0 +1,13 @@
+telethon==1.34.0
+python-dotenv==1.0.1
+tqdm==4.66.1
+psycopg2-binary
+dbt-postgres
+ultralytics 
+opencv-python 
+pillow
+pandas
+fastapi 
+uvicorn 
+sqlalchemy 
+python-dotenv
